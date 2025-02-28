@@ -39,6 +39,7 @@ models/deepseek_base/*
 models/deepseek_finetuned/*
 
 # Data files
+data/**/*.json
 data/*.json
 
 # Logs

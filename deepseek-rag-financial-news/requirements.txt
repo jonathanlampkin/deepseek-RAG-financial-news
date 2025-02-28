@@ -1,11 +1,4 @@
-torch
-transformers
-datasets
-numpy
-pandas
-requests>=2.31.0
-scikit-learn
-flask
-pytest
-jupyter
-python-dotenv>=0.19.0
+beautifulsoup4==4.13.3
+cloudscraper==1.2.71
+fake_useragent==2.0.3
+Requests==2.32.3
